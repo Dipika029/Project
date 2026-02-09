@@ -36,7 +36,6 @@ For further inquiries or contributions, please contact:
 
 Name: [Dipika Sarkar]
 Email: [dipikasarkar108@gmail.com]
-LinkedIn: [Your LinkedIn Profile]
 GitHub: [https://github.com/Dipika029/Project/new/main?filename=README.md]
 This README provides an overview of the project's vision, process flow, and future plans, as well as relevant contact information. Adjust the placeholders as necessary to fit your actual details and specific project elements.
 
